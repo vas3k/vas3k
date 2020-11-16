@@ -8,6 +8,7 @@
 - 🤗 Fun fact about me: sometimes I can code a whole CSS grid without googling the syntax. But not today :D
 - ✉️ You can shoot me an email at [me@vas3k.ru](mailto:me@vas3k.ru)
 
+#### My CV: [Vasily Zubarev.pdf](https://raw.githubusercontent.com/vas3k/vas3k/master/cv.pdf)
 
 ## 🛠 My fancy badge area
 
