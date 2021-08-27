@@ -1,11 +1,10 @@
 # Hi there 👋 I'm Vasily
 
 - 🇩🇪 I live in Berlin, Germany.
-- 🐍 I'm a lead developer at [Parity Technologies](https://parity.io).
+- 🐍 I'm an engineer at [Parity Technologies](https://parity.io).
 - 🤖 Most of the time I'm writing on Python and Go. Sometimes JavaScript (when I had to).
 - 🚀 I love pet-projects. They help me grow professionally all my life.
-- ✏️ I write articles on my blog [vas3k.com (en)](https://vas3k.com) or [vas3k.ru (ru)](https://vas3k.ru).
-- 🤗 Fun fact about me: sometimes I can code a whole CSS grid without googling the syntax. But not today :D
+- ✏️ I write articles on my blog (in Russian): [vas3k.ru](https://vas3k.ru).
 - ✉️ You can shoot me an email at [me@vas3k.ru](mailto:me@vas3k.ru).
 
 #### My CV: [Vasily Zubarev.pdf](https://raw.githubusercontent.com/vas3k/vas3k/master/cv.pdf)
