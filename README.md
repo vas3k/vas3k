@@ -21,6 +21,10 @@
 
 [vas3k.club](https://vas3k.club) is a small IT-lifestyle community with private and paid memberships that has emerged around my blog [vas3k.ru](https://vas3k.ru) and satellite chat-rooms. We are trying to build a helpful and candid ecosystem, which the Internet has lost a long ago. Therefore, we carefully select and filter new members and do not seek wild growth. The whole development process is open and managed on GitHub. The project attracted many volunteers who improve it together.
 
+### [Berlin Transport Card for Home Assistant](https://github.com/vas3k/home-assistant-berlin-transport)
+
+Timetable widget for my Smart Home dashboard. It uses the BVG (Berlin Transport) API to get trains, buses and trams arriving at the specified stop and allows you to plan your trips. Community liked the widget and it is now being used by hundreds of people.
+
 ### [pepic](https://github.com/vas3k/pepic)
 
 Fast and simple media upload proxy on Go. Supports images and videos. Can resize and transcode them in-flight and cache the result. Optimized for small projects and blogs. Not meant to be used by anyone except me :D
