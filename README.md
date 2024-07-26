@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Vasily
 
 - 🇩🇪 I live in Berlin, Germany.
-- 🐍 I'm an engineer at [Parity Technologies](https://parity.io).
-- 🤖 Most of the time I'm writing on Python and Go. Sometimes JavaScript.
+- 🐍 I do R&D at [Anytype]([https://parity.io](https://anytype.io/)).
+- 🤖 I write code for 15+ years, most of the time on Python and Go. Sometimes JavaScript.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 - ✏️ I write articles on my blog (in Russian): [vas3k.ru](https://vas3k.ru).
 - ✉️ You can shoot me an email at [me@vas3k.ru](mailto:me@vas3k.ru).
