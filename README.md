@@ -4,7 +4,7 @@
 - 🐍 I'm currently open to job offers.
 - 🤖 I write code for [15+ years](https://www.linkedin.com/in/vas3k/), most of the time on Python and Go. Sometimes JavaScript.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
-- ✏️ I write articles on my blog (in Russian): [vas3k.ru](https://vas3k.ru).
+- ✏️ I write articles on my blog (in Russian): [vas3k.blog](https://vas3k.blog) and sometimes translate them into English — [vas3k.com](https://vas3k.com)
 - ✉️ You can shoot me an email at [me@vas3k.ru](mailto:me@vas3k.ru).
 
 #### My CV: [Vasily Zubarev.pdf](https://raw.githubusercontent.com/vas3k/vas3k/master/cv.pdf)
